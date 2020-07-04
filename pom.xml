@@ -35,10 +35,10 @@
     <!-- Spring framework START -->
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>5.0.7.RELEASE</version>
-    </dependency>
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-core</artifactId>
+  <version>[5.0.10,)</version>
+</dependency>
 
 
 
